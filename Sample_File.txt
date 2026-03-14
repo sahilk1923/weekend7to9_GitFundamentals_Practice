@@ -1,0 +1,1 @@
+New document created to understand the git commands
